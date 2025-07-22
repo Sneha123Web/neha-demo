@@ -1,2 +1,2 @@
 # neha-demo
-this id demo for Git &amp; Github class
+this id demo for Git &amp; Github class.
